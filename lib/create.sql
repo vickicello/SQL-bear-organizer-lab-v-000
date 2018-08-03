@@ -7,5 +7,3 @@ CREATE TABLE bears (
   temperament TEXT,
   alive BOOLEAN
 );
-
-age INTEGER, gender CHAR(1), color TEXT, temperament TEXT, alive BOOLEAN);
