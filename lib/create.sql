@@ -4,5 +4,6 @@ CREATE TABLE bears (
   age INTEGER,
   gender CHAR(1)
   color TEXT,
-  net_worth INTEGER
+  temperament TEXT,
+  alive BOOLEAN
 );
